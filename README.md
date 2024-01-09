@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript/Node.js
 - 😄 Pronouns: he/his
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillMenezess&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillMenezess&hide=stars,commits,prs,issues,contribs)
 
 
 
